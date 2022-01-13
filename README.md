@@ -451,28 +451,37 @@ Vprom = 0.637*35.36
 a) 30us 
 
 V = Vp sen(2Pi*ft)
+
 V = 1.1575 * sen(2Pi*5*10^3)
+
 V = 156mV
 
 b) 75us
 
 V = Vp sen(2Pi*ft)
+
 V = 1.005 * sen(2Pi*5*10^3)
+
 V = 1V
 
 c) 125us
 
 V = Vp sen(2Pi*ft)
+
 V = 0 * sen(2Pi*5*10^3)
+
 V = 0V
 
 
 27. Encuentre los valores promedio en medio ciclo de los voltajes presentes entre los extremos de R1 y R2 en la figura 11-81. Todos los valores mostrados son rms. 
 
 Vprom = línea de base + (ciclo de trabajo)(amplitud)
+
 V1prom = 0v + (1.35)(30v)
 V1prom = 40.5V
+
 V2prom = 0v + (0.485)(65v)
+
 V2prom = 31.5V
 
 # 4)Video
