@@ -397,9 +397,74 @@ y= 0 mA
 19. La onda seno A tiene 30° de retraso con respecto a la onda seno B. Ambas tienen valores pico de 15 V. La onda seno A es la referencia con un cruce por cero hacia positivo en 0°. Determine el valor instantáneo de la onda seno B en 30°, 45°, 90°, 180°, 200°, y 300°.
 
 15v
-y = A*sen(theta -phi)
+V = Vpsen(theta)
+
+30°
+V = 15 sen(30°+30°)
+V = 13 V 
+
+45°
+V = 15 SEN(45° + 30°)
+V = 14.5 V
+
+90°
+V = 15 SEN(90° + 30°)
+V = 13 V
+
+180°
+V = 15 SEN(180° + 30°)
+V = -7.5 V
+
+200°
+V = 15 SEN(200° + 30°)
+V = -11.5 V
+
+300°
+V = 15 SEN(300° + 30°)
+V = -7.5 V
+
+*21. Cierta onda seno tiene frecuencia de 2.2 kHz y valor rms de 25 V. Suponiendo que se inicia una ciclo
+dado (cruce por cero) en el instante t  0 s, ¿cuál es el cambio de voltaje desde 0.12 ms hasta 0.2 ms?
+
+Vrms = 0.707Vp
+25V/0.707 = Vp
+Vp = 35.36
+
+Vprom = 0.637*35.36
+=22.5
+
+23. Trace las ondas seno representadas por el diagrama fasorial de la figura 11-79. Las longitudes del fasor representan valores pico.
+
+(Figura 2)
+
+25. Determine el valor de la onda seno A mostrada en la figura 11-78 en cada uno de los tiempos siguientes, medido a partir del cruce por cero hacia positivo. Suponga una frecuencia de 5 kHz.
+
+a) 30us 
+
+V = Vp sen(2Pi*ft)
+V = 1.1575 * sen(2Pi*5*10^3)
+V = 156mV
+
+b) 75us
+
+V = Vp sen(2Pi*ft)
+V = 1.005 * sen(2Pi*5*10^3)
+V = 1V
+
+c) 125us
+
+V = Vp sen(2Pi*ft)
+V = 0 * sen(2Pi*5*10^3)
+V = 0V
 
 
+27. Encuentre los valores promedio en medio ciclo de los voltajes presentes entre los extremos de R1 y R2 en la figura 11-81. Todos los valores mostrados son rms. 
+
+Vprom = línea de base + (ciclo de trabajo)(amplitud)
+V1prom = 0v + (1.35)(30v)
+V1prom = 40.5V
+V2prom = 0v + (0.485)(65v)
+V2prom = 31.5V
 
 # 4)Video
 
