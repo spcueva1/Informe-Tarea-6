@@ -266,6 +266,141 @@ Interruptores prácticos El interruptor de dos polos que se ha utilizado para il
 # 3)Explicacion y resolucion de ejercicios.
 
 
+1. Calcule la frecuencia con cada uno de los siguientes valores de periodo:
+a)1s
+
+ =1 Hz
+
+b)0.2s
+
+ =5 Hz
+
+c)50ms
+
+ =20 Hz
+ 
+d)1ms
+
+ =1 KHz
+
+e)5us
+
+ =0.2MHz
+
+f)10us
+
+ = 0.1 MHz
+
+3. Una onda seno realiza 5 ciclos en 10 ms. ¿Cuál es su periodo?
+
+=5*10*-3 = 1/20
+P= 1/20 s
+
+5. La espira conductora del rotor de un generador monofásico de dos polos gira a 250 rps. ¿Cuál es la frecuencia del voltaje de salida inducido?
+
+f= (número de pares de polos)(rps) 
+f=1(250) =250Hz
+
+7. ¿A qué rapidez de rotación debe ser operado un generador de cuatro polos para producir un voltaje sinusoidal de 400 Hz?
+
+f= (número de pares de polos)(rps) 
+
+rps = f/(número de pares de polos)
+
+rps = 400Hz / 2
+
+rps = 200 rps
+
+9. El valor rms de una corriente sinusoidal es de 5 mA. Determine los siguientes valores:
+(a) pico (b) promedio (c) pico a pico
+
+a) Ip = 1.414*Irms = 1.414*(5mA)=7.07*10-3mA
+
+b) Iprom = 0.637*Ip = 0.637 * 7.07*10-3 = 4.5*10-3 = 0A
+
+c) Ipp = 2*Ip = 2*7.07*10-3 = 14*10-3mA
+
+11. Transforme los siguientes valores angulares de grados a radianes:
+
+(a)30° 
+
+(30° * Pi rad)/180° =  Pi/6
+
+(b) 45°
+
+(45° * Pi rad)/180° = Pi/4
+
+(c) 78°
+
+(78° * Pi rad)/180° =13P1/30
+
+(d) 135°
+
+(135° * Pi rad)/180° =3Pi/4
+
+(e) 200°
+
+(200° * Pi rad)/180° = 10Pi/9
+
+(f) 300°
+
+(300° * Pi rad)/180° = 5Pi/3
+
+13. Una onda seno A tiene un cruce por cero hacia positivo en 30°. La onda seno B tiene un cruce por cero hacia positivo en 45°. Determine el ángulo de fase que hay entre las dos señales. ¿Cuál señal es la que se adelanta?
+
+45-30 = 15 °
+por ende a esta adelantado
+
+15. Trace un bosquejo de dos ondas seno como sigue: la onda seno A es la referencia y la onda seno B se retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales. 
+
+(FIGURA 1 )
+
+17. Para una corriente sinusoidal particular referida a 0°, el valor pico es de 100 mA. Determine el valor
+instantáneo en cada uno de los siguientes puntos:
+
+(a)35° 
+
+y = A * sen(THETA)
+y= 100 mA * sen(35°)
+y= 57.3 mA
+
+(b)95° 
+
+y = A * sen(THETA)
+y= 100 mA * sen(95°)
+y= 99.6 mA
+
+(c)190°
+
+y = A * sen(THETA)
+y= 100 mA * sen(190°)
+y= -17.3 mA
+
+(d)215° 
+
+y = A * sen(THETA)
+y= 100 mA * sen(215° )
+y= -57.3 mA
+
+(e)275°
+
+y = A * sen(THETA)
+y= 100 mA * sen(275°)
+y= -99.6 mA
+
+(f)360° 
+
+y = A * sen(THETA)
+y= 100 mA * sen(360°)
+y= 0 mA
+
+19. La onda seno A tiene 30° de retraso con respecto a la onda seno B. Ambas tienen valores pico de 15 V. La onda seno A es la referencia con un cruce por cero hacia positivo en 0°. Determine el valor instantáneo de la onda seno B en 30°, 45°, 90°, 180°, 200°, y 300°.
+
+15v
+y = A*sen(theta -phi)
+
+
+
 # 4)Video
 
 
