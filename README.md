@@ -26,7 +26,7 @@ Es el tipo fundamental de corriente alterna (ca) y voltaje alterno. También se 
 
 Al ser una onda seno, puede llegar hasta un valor máximo y un valor mínimo.
 
-“FIGURA 1”
+![](IMA MAPA/FIGURA 1.PNG)
 
 Polaridad de una onda seno El cambio de polaridad se da por la función seno. Al cambiar de polaridad, cambia la dirección de voltaje o corriente. Las alternaciones positivas y negativas sel sinusoide forman un ciclo de onda seno.
 Periodo de una onda seno El tiempo requerido para que una onda seno complete todo un ciclo se llama periodo (T) Frecuencia de una onda seno La frecuencia (f) es el número de ciclos que una onda seno completa en un segundo. Su unidad es el Hertz (Hz). Relación de frecuencia y periodo La frecuencia es la inversa del periodo y viceversa.
@@ -36,17 +36,17 @@ f=1/T; T=1/f
 
 Dos métodos básicos de generar voltajes sinusoidales son: electromagnético y electrónico. Un generador de CA
 
-“FIGURA 2”
+![](IMA MAPA/FIGURA 2.PNG)
 
 Generadores de señales electrónicas
 
-“FIGURA 3”
+![](IMA MAPA/FIGURA 3.PNG)
 
 11–3 VALORES SINUSOIDALES DE VOLTAJE Y CORRIENTE
 
 Valor instantáneo: Se encuentran en cualquier punto del ciclo sinusoidal. Son valores positivos en la alternación positiva y viceversa.
 
-“FIGURA 4”
+![](IMA MAPA/FIGURA 4.PNG)
 
 Valor pico: Es el valor de voltaje o corriente en el punto máximo de la onda seno.
 
@@ -353,7 +353,9 @@ por ende a esta adelantado
 
 15. Trace un bosquejo de dos ondas seno como sigue: la onda seno A es la referencia y la onda seno B se retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales. 
 
-(FIGURA 1 )
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/47c29c894ceda5b2732041c1277f46c1be5d06fd/Tarea%206%20parte%201/1.png)
+
 
 17. Para una corriente sinusoidal particular referida a 0°, el valor pico es de 100 mA. Determine el valor
 instantáneo en cada uno de los siguientes puntos:
@@ -435,7 +437,9 @@ Vprom = 0.637*35.36
 
 23. Trace las ondas seno representadas por el diagrama fasorial de la figura 11-79. Las longitudes del fasor representan valores pico.
 
-(Figura 2)
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/47c29c894ceda5b2732041c1277f46c1be5d06fd/Tarea%206%20parte%201/2.png)
+
 
 25. Determine el valor de la onda seno A mostrada en la figura 11-78 en cada uno de los tiempos siguientes, medido a partir del cruce por cero hacia positivo. Suponga una frecuencia de 5 kHz.
 
