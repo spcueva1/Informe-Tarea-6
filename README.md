@@ -26,7 +26,7 @@ Es el tipo fundamental de corriente alterna (ca) y voltaje alterno. También se 
 
 Al ser una onda seno, puede llegar hasta un valor máximo y un valor mínimo.
 
-![](IMA MAPA/FIGURA 1.PNG)
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/47c29c894ceda5b2732041c1277f46c1be5d06fd/IMA%20MAPA/FIGURA%201.PNG)
 
 Polaridad de una onda seno El cambio de polaridad se da por la función seno. Al cambiar de polaridad, cambia la dirección de voltaje o corriente. Las alternaciones positivas y negativas sel sinusoide forman un ciclo de onda seno.
 Periodo de una onda seno El tiempo requerido para que una onda seno complete todo un ciclo se llama periodo (T) Frecuencia de una onda seno La frecuencia (f) es el número de ciclos que una onda seno completa en un segundo. Su unidad es el Hertz (Hz). Relación de frecuencia y periodo La frecuencia es la inversa del periodo y viceversa.
@@ -36,23 +36,23 @@ f=1/T; T=1/f
 
 Dos métodos básicos de generar voltajes sinusoidales son: electromagnético y electrónico. Un generador de CA
 
-![](IMA MAPA/FIGURA 2.PNG)
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/3fa2d858af016e6f9503fa9825385a87ead8ac78/IMA%20MAPA/FIGURA%202.PNG)
 
 Generadores de señales electrónicas
 
-![](IMA MAPA/FIGURA 3.PNG)
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/3fa2d858af016e6f9503fa9825385a87ead8ac78/IMA%20MAPA/FIGURA%203.PNG)
 
 11–3 VALORES SINUSOIDALES DE VOLTAJE Y CORRIENTE
 
 Valor instantáneo: Se encuentran en cualquier punto del ciclo sinusoidal. Son valores positivos en la alternación positiva y viceversa.
 
-![](IMA MAPA/FIGURA 4.PNG)
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/3fa2d858af016e6f9503fa9825385a87ead8ac78/IMA%20MAPA/FIGURA%204.PNG)
 
 Valor pico: Es el valor de voltaje o corriente en el punto máximo de la onda seno.
 
 Valor pico a pico: Se expresa como el doble del valor pico, ya que va desde el punto máximo hasta el punto mínimo de la onda seno.
 
-“FIGURA 5”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/3fa2d858af016e6f9503fa9825385a87ead8ac78/IMA%20MAPA/FIGURA%205.PNG)
 
 Valor RMS: El valor rms de un voltaje sinusoidal es igual al voltaje de cd que produce la misma cantidad de calor en una resistencia que un voltaje sinusoidal.
 
@@ -62,23 +62,28 @@ Valor promedio: Siempre da 0, porque los valores positivos del ciclo siempre neu
 
 Medición angular: La letra griega p (pi) representa la relación de la circunferencia de cualquier círculo a su diámetro y tiene un valor constante de aproximadamente 3.1416.
 
-“FIGURA 6”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/3fa2d858af016e6f9503fa9825385a87ead8ac78/IMA%20MAPA/FIGURA%206.PNG)
 
-Conversión de radianes a grados y viceversa: “FIGURA 7 Y 8”
+Conversión de radianes a grados y viceversa: 
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/3fa2d858af016e6f9503fa9825385a87ead8ac78/IMA%20MAPA/FIGURA%207.PNG)
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/3fa2d858af016e6f9503fa9825385a87ead8ac78/IMA%20MAPA/FIGURA%208.PNG)
+
 
 Fase de una onda seno:
 
-“FIGURA 9”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/3fa2d858af016e6f9503fa9825385a87ead8ac78/IMA%20MAPA/FIGURA%209.PNG)
 
 11–5 LA FÓRMULA DE LA ONDA SENO
 
 La expresión general para la onda seno es: y = A sen β
 
-“FIGURA 10”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/3fa2d858af016e6f9503fa9825385a87ead8ac78/IMA%20MAPA/FIGURA%2010.PNG)
 
 Expresiones para ondas seno con desplazamiento de fase:
 
-“FIGURA 11”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/3fa2d858af016e6f9503fa9825385a87ead8ac78/IMA%20MAPA/FIGURA%2011.PNG)
 
 11–6 INTRODUCCIÓN A LOS FASORES
 
@@ -86,7 +91,7 @@ Los fasores proporcionan un método gráfico para representar cantidades que tie
 Representación fasorial de una onda seno: El valor instantáneo de la onda seno en cualquier punto es igual a la distancia vertical desde la punta del fasor hasta el eje 
 horizontal.
 
-“FIGURA 12”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/3fa2d858af016e6f9503fa9825385a87ead8ac78/IMA%20MAPA/FIGURA%2012.PNG)
 
 Fasores y la fórmula de la onda seno: El lado opuesto de un triángulo rectángulo es igual a la hipotenusa por el seno del ángulo u.
 
