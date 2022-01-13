@@ -1,1 +1,279 @@
 # Informe-Tarea-6
+
+# 1) OBJETIVOS:
+
+Objetivo General:
+
+- Identificar una forma de onda sinusoidal y medir sus características analizando cómo se generan las ondas seno. Estudiar caracteristicas  basicas de los capacitores y aplicaciones del mismo.
+
+Objetivo General: 
+
+Objetivos específicos:
+
+- Identificar los circuitos de CA y Voltajes superpuestos de CD y de CA para comprender dichos temas.
+- Analizar los capacitores en serie y paralelo mediante la resolucion de ejercicios y asi tener en cuenta las caracteristicas del mismo. 
+- Identificar los Capacitores en circuitos de CD y Capacitores en circuitos de CA mediante una ardua lectura del texto. 
+
+
+# 2) Marco Teorico
+
+
+11.- INTRODUCCIÓN A LA CORRIENTE Y AL VOLTAJE ALTERNOS
+
+11–1 LA FORMA DE ONDA SINUSOIDAL
+
+Es el tipo fundamental de corriente alterna (ca) y voltaje alterno. También se conoce como onda sinusoidal o, simplemente, sinusoide. El servicio eléctrico provisto por la compañía de electricidad es en la forma de voltaje y corriente sinusoidales.
+
+Al ser una onda seno, puede llegar hasta un valor máximo y un valor mínimo.
+
+“FIGURA 1”
+
+Polaridad de una onda seno El cambio de polaridad se da por la función seno. Al cambiar de polaridad, cambia la dirección de voltaje o corriente. Las alternaciones positivas y negativas sel sinusoide forman un ciclo de onda seno.
+Periodo de una onda seno El tiempo requerido para que una onda seno complete todo un ciclo se llama periodo (T) Frecuencia de una onda seno La frecuencia (f) es el número de ciclos que una onda seno completa en un segundo. Su unidad es el Hertz (Hz). Relación de frecuencia y periodo La frecuencia es la inversa del periodo y viceversa.
+f=1/T; T=1/f
+
+11–2 FUENTES DE VOLTAJE SINUSOIDAL
+
+Dos métodos básicos de generar voltajes sinusoidales son: electromagnético y electrónico. Un generador de CA
+
+“FIGURA 2”
+
+Generadores de señales electrónicas
+
+“FIGURA 3”
+
+11–3 VALORES SINUSOIDALES DE VOLTAJE Y CORRIENTE
+
+Valor instantáneo: Se encuentran en cualquier punto del ciclo sinusoidal. Son valores positivos en la alternación positiva y viceversa.
+
+“FIGURA 4”
+
+Valor pico: Es el valor de voltaje o corriente en el punto máximo de la onda seno.
+
+Valor pico a pico: Se expresa como el doble del valor pico, ya que va desde el punto máximo hasta el punto mínimo de la onda seno.
+
+“FIGURA 5”
+
+Valor RMS: El valor rms de un voltaje sinusoidal es igual al voltaje de cd que produce la misma cantidad de calor en una resistencia que un voltaje sinusoidal.
+
+Valor promedio: Siempre da 0, porque los valores positivos del ciclo siempre neutralizan los valores negativos del ciclo.
+
+11–4 MEDICIÓN ANGULAR DE UNA ONDA SENO
+
+Medición angular: La letra griega p (pi) representa la relación de la circunferencia de cualquier círculo a su diámetro y tiene un valor constante de aproximadamente 3.1416.
+
+“FIGURA 6”
+
+Conversión de radianes a grados y viceversa: “FIGURA 7 Y 8”
+
+Fase de una onda seno:
+
+“FIGURA 9”
+
+11–5 LA FÓRMULA DE LA ONDA SENO
+
+La expresión general para la onda seno es: y = A sen β
+
+“FIGURA 10”
+
+Expresiones para ondas seno con desplazamiento de fase:
+
+“FIGURA 11”
+
+11–6 INTRODUCCIÓN A LOS FASORES
+
+Los fasores proporcionan un método gráfico para representar cantidades que tienen tanto magnitud como dirección
+Representación fasorial de una onda seno: El valor instantáneo de la onda seno en cualquier punto es igual a la distancia vertical desde la punta del fasor hasta el eje 
+horizontal.
+
+“FIGURA 12”
+
+Fasores y la fórmula de la onda seno: El lado opuesto de un triángulo rectángulo es igual a la hipotenusa por el seno del ángulo u.
+
+“FIGURA 13”
+
+Ángulos fasoriales positivos y negativos: 
+
+“FIGURA 14”
+
+Diagramas fasoriales: Es posible utilizar un diagrama fasorial para demostrar la relación relativa de dos o más ondas seno de igual frecuencia.
+
+“FIGURA 15”
+
+Velocidad angular de un fasor: Cuando un fasor gira 2p radianes, se describe un ciclo completo. Por consiguiente, el tiempo requerido para que el fasor recorra 2p radianes es el periodo de la onda seno.
+
+“FIGURA 16”
+
+11–7 ANÁLISIS DE CIRCUITOS DE CA
+
+Todas las leyes usadas para analizar circuitos de corriente directa son aplicables para circuitos de corriente alterna. En este caso, los valores de voltaje y corriente deben ser consistentes, es decir, si se utiliza el voltaje de valor pico, se debe utilizar la corriente de valor pico
+
+11–8 VOLTAJES SUPERPUESTOS DE CD Y DE CA
+
+Los voltajes de corriente directa y alterna dispuestos en serie, siempre se sumarán.
+
+“FIGURA 17”
+
+11–9 FORMAS DE ONDA NO SINUSOIDALES
+
+Formas de onda pulsantes: Puede ser descrito como una transición muy rápida (borde de entrada) de un nivel de corriente o voltaje (línea de base) a un nivel de amplitud, y luego, después de un intervalo de tiempo, una transición muy rápida (borde de salida) de regreso al nivel de línea de base original.
+
+Ondas cuadradas Una onda cuadrada es una forma de onda pulsante con un ciclo de trabajo del 50%.
+Formas de onda triangulares y diente de sierra: Se forman por rampas de voltaje o corriente. Una rampa es un incremento o una reducción lineal del voltaje o de la corriente Armónicos Armónicos impares Los armónicos impares son frecuencias que son múltiplos impares de la frecuencia fundamental de una forma de onda. Armónicos pares Los armónicos pares son frecuencias que son múltiplos pares de la frecuencia fundamental.
+Forma de onda compuesta Cualquier variación que se aparte de una onda seno pura produce armónicos.
+
+11–10 EL OSCILOSCOPIO
+
+Es un dispositivo de visualización que traza, en su pantalla, una gráfica de una señal eléctrica medida. Se pueden utilizar dos tipos básicos de osciloscopio, analógico y digital, para visualizar formas de onda digitales.
+
+“FIGURA 18”
+
+12.- CAPACITORES
+
+12–1 EL CAPACITOR BÁSICO
+
+Un capacitor es un componente eléctrico pasivo que guarda energía eléctrica y tiene la propiedad de capacitancia. Construcción básica: Se conforma por dos placas conductoras, y entre ellas se posiciona un dieléctrico, que es un material aislante.
+
+“FIGURA 19”
+
+Cómo guarda carga un capacitor: Mientras la fuente de voltaje proporciona energía al capacitor, los electrones libres de una placa conductora se dirigen hacia la otra placa conductora del capacitor, este proceso se da hasta cuando el capacitor retiene el mismo voltaje proporcionado por la fuente.
+
+“FIGURA 20”
+
+Capacitancia: Es una medida de la capacidad de un capacitor de guardar carga.
+
+Se expresa como: C=Q/V
+
+Donde C es capacitancia, Q es carga y V es voltaje. El Farad es la unidad básica de capacitancia.
+
+Un capacitor guarda energía bajo el principio de la ley de Coulomb que establece:
+
+Existe una fuerza (F) entre dos cargas de fuente puntuales (Q1, Q2) que es directamente proporcional al producto de las dos cargas e inversamente proporcional al cuadrado de la distancia (d) entre las cargas.
+
+La fórmula que establece la cantidad de energía guardada por un capacitor es:
+
+W= (1/2)*C*V^2
+
+Donde W es energía (Joules), C es capacitancia (farad) y V es voltaje (Voltios).
+
+Voltaje nominal: Es el voltaje máximo de corriente directa que un capacitor puede almacenar.
+
+Coeficiente de temperatura: Indica la cantidad y dirección de un cambio de valor de capacitancia debido a la temperatura.
+
+Fuga: La carga de un capacitor siempre se fuga, pero en pequeñas cantidades, ya que el aislante no es ideal.
+
+Características físicas de un capacitor:
+
+Área de placas La capacitancia es directamente proporcional al tamaño físico de las placas como lo determina su área.
+
+Separación entre placas La capacitancia es inversamente proporcional a la distancia que haya entre las placas.
+
+Constante dieléctrica: Es la medida de la capacidad de un material para establecer un campo eléctrico
+
+12–2 TIPOS DE CAPACITORES
+
+Capacitores fijos: Se colocan en el circuito cuando no es necesario cambiar el valor de la capacitancia. Existen de mica, de cerámica, de película plástica y electrolíticos. 
+
+Capacitores variables: Se colocan en el circuito cuando es necesario cambiar el valor de la capacitancia, ya sea manual o automáticamente.
+
+Rotulación de capacitores: La medida del capacitor se sitúa en el cuerpo del capacitor mediante una rotulación tipográfica o mediante código de colores.
+
+Medición de capacitancia: Se puede utilizar un medidor LCR o también existen muktímetros con la función de medir capacitancia.
+
+12–3 CAPACITORES EN SERIE
+
+Capacitancia total:
+
+“FIGURA 21”
+
+La capacitancia total en serie siempre es menor que la capacitancia más pequeña.
+
+Voltajes en capacitores: Es posible calcular el voltaje de un capacitor con la fórmula:
+
+“Figura 22”
+
+“En una conexión en serie, el capacitor de valor más grande tendrá el voltaje más pequeñoentre sus terminales. El capacitor de valor más pequeño tendrá el voltaje más grande entre sus terminales”
+
+12–4 CAPACITORES EN PARALELO
+Cuando se conectan capacitores en paralelo, la capacitancia total es la suma de las capacitancias individuales porque el área de las placas se incrementa.
+
+12–5 CAPACITORES EN CIRCUITOS DE CD
+
+Carga de un capacitor: Un capacitor se carga cuando se conecta a una fuente de voltaje de cd.
+
+Descarga de un capacitor: Cuando se conecta un conductor eléctrico entre las terminales de un capacitor cargado, el capacitor se descargará.
+
+Corriente y voltaje durante la carga y descarga: Idealmente, no hay corriente a través del dieléctrico del capacitor durante la carga o descarga porque el dieléctrico es un material aislante
+
+La constante de tiempo RC: La constante de tiempo RC es un intervalo fijo que es igual al producto de la resistencia por la capacitancia presentes en un circuito RC en serie.
+Curvas de carga y descarga
+
+Un capacitor se carga y descarga siguiendo una curva no lineal.
+
+“FIGURA 23”
+
+Determinación del tiempo: Es necesario determinar cuánto le llevará a un capacitor cargarse o descargarse a un voltaje específico. 
+
+“FIGURA 24 Y 25”
+
+12–6 CAPACITORES EN CIRCUITOS DE CA
+
+Un capacitor deja pasar la corriente alterna, pero con cierta cantidad de oposición, llamada reactancia capacitiva, que depende de la frecuencia de la corriente alterna.
+La corriente instantánea en el capacitor es igual a la capacitancia multiplicada por la razón de cambio instantánea del voltaje presente entre las terminales del capacitor.
+
+Relación de fase de corriente y voltaje en un capacitor: 
+
+“FIGURA 26” 
+
+Reactancia capacitiva, XC: La reactancia capacitiva es la oposición a la corriente sinusoidal, expresada en ohms.
+
+Potencia en un capacitor:
+
+“FIGURA 27”
+
+Potencia instantánea (p) El producto de v por i da potencia instantánea
+
+Potencia real o activa P: No se pierde energía neta por causa de la conversión de calor en el capacitor, de modo que la potencia real es de cero.
+
+Potencia reactiva Q: Es la razón a la cual un capacitor guarda o regresa energía
+
+12–7 APLICACIONES DE LOS CAPACITORES
+
+Almacenamiento eléctrico: Fuente de voltaje de respaldo en circuitos de baja potencia. Esta aplicación en particular requiere de un muy alto valor de capacitancia y fugas insignificantes.
+
+Filtrado en una fuente de potencia: Se utilizan capacitores como filtros en fuentes de potencia de cd por su capacidad de guardar carga eléctrica.
+
+Bloqueo de cd y acoplamiento de ca: Se utiliza con el fin de bloquear el voltaje de cd constante en una parte de un circuito para que no llegue a otra parte.
+
+Desacoplamiento de línea de potencia: Para desacoplar los transitorios o pulsos estrechos de voltaje indeseables que ocurren en el voltaje de suministro de cd debido a circuitos digitales de rápida conmutación, se utilizan capacitores conectados desde la línea de voltaje de la fuente de cd hasta tierra.
+
+Desvío (bypass): Consiste en desviar un voltaje de ca presente alrededor de un resistor en un circuito sin afectar el voltaje de cd que haya entre las terminales del resistor.
+
+Filtros de señal: Se utilizan para seleccionar una señal de ca con cierta frecuencia especificada de entre una amplia variedad de señales con muchas frecuencias diferentes, o para seleccionar cierta banda de frecuencias y eliminar todas las demás frecuencias.
+
+Circuitos temporizadores: Los capacitores ayudan a generar ondas que tienen características diferentes a las conocidas.
+
+Memorias de computadora: Un capacitor representa un almacenamiento básico de información binaria.
+
+12–8 CIRCUITOS DE CAPACITOR CONMUTADOS
+
+Interruptores prácticos El interruptor de dos polos que se ha utilizado para ilustrar el concepto básico de un circuito de capacitor conmutado es una forma poco práctica de implementación en un amplificador programable u otro circuito analógico. “FIGURA 28”
+
+
+
+
+
+# 3)Explicacion y resolucion de ejercicios.
+
+
+# 4)Video
+
+
+https://www.youtube.com/watch?v=TkJTO6C6f1w
+
+# 5)Conclusiones
+
+
+# 6)Bibliografia
+
+- Floyd, T. (2007). Voltaje, corriente y resistencia. En L. M. Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 16-71). Pearson Educación. Floyd, T. (2007). Cantidades y unidades. En L. M. Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 1-15). Pearson Educación Abreu, R. (2005). Fuentes de alimentación conmutadas. El1313-Electrónica III 2005, 4,5. http://www.el.bqto.unexpo.edu.ve/rabreu/Electronica3/Clase9.pdf
