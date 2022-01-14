@@ -265,7 +265,7 @@ Memorias de computadora: Un capacitor representa un almacenamiento básico de in
 
 Interruptores prácticos El interruptor de dos polos que se ha utilizado para ilustrar el concepto básico de un circuito de capacitor conmutado es una forma poco práctica de implementación en un amplificador programable u otro circuito analógico.
 
-![](https://github.com/spcueva1/Informe-Tarea-6/blob/56ab019a815f5c5f3945597fcaeb64cd3767707c/IMA%20MAPA/FIGURA%2028.PNG)
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/2bf2daa125f8e581d8267d4792f9b641551cb447/WhatsApp%20Image%202022-01-13%20at%209.07.20%20PM.jpeg)
 
 # 3)Explicacion y resolucion de ejercicios.
 
