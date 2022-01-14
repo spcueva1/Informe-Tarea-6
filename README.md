@@ -491,6 +491,13 @@ https://www.youtube.com/watch?v=TkJTO6C6f1w
 # 5)Conclusiones
 
 
+- Logramos dentificar una forma de onda sinusoidal y medir sus características analizando cómo se generan las ondas seno. Tambien logramos estudiar caracteristicas basicas de los capacitores y aplicaciones del mismo.
+
+- Aprendimos a identificar los circuitos de CA y Voltajes superpuestos de CD y de CA para comprender dichos temas.
+- Entendimos como analizar los capacitores en serie y paralelo mediante la resolucion de ejercicios y asi tener en cuenta las caracteristicas del mismo.
+- Tambien logramos identificar los Capacitores en circuitos de CD y Capacitores en circuitos de CA mediante una ardua lectura del texto.
+
+
 # 6)Bibliografia
 
 - Floyd, T. (2007). Voltaje, corriente y resistencia. En L. M. Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 16-71). Pearson Educación. Floyd, T. (2007). Cantidades y unidades. En L. M. Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 1-15). Pearson Educación Abreu, R. (2005). Fuentes de alimentación conmutadas. El1313-Electrónica III 2005, 4,5. http://www.el.bqto.unexpo.edu.ve/rabreu/Electronica3/Clase9.pdf
