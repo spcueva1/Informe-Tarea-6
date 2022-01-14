@@ -95,19 +95,18 @@ horizontal.
 
 Fasores y la fórmula de la onda seno: El lado opuesto de un triángulo rectángulo es igual a la hipotenusa por el seno del ángulo u.
 
-“FIGURA 13”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/56ab019a815f5c5f3945597fcaeb64cd3767707c/IMA%20MAPA/FIGURA%2013.PNG)
 
 Ángulos fasoriales positivos y negativos: 
 
-“FIGURA 14”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/56ab019a815f5c5f3945597fcaeb64cd3767707c/IMA%20MAPA/FIGURA%2014.PNG)
 
 Diagramas fasoriales: Es posible utilizar un diagrama fasorial para demostrar la relación relativa de dos o más ondas seno de igual frecuencia.
-
-“FIGURA 15”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/56ab019a815f5c5f3945597fcaeb64cd3767707c/IMA%20MAPA/FIGURA%2015.PNG)
 
 Velocidad angular de un fasor: Cuando un fasor gira 2p radianes, se describe un ciclo completo. Por consiguiente, el tiempo requerido para que el fasor recorra 2p radianes es el periodo de la onda seno.
 
-“FIGURA 16”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/56ab019a815f5c5f3945597fcaeb64cd3767707c/IMA%20MAPA/FIGURA%2016.PNG)
 
 11–7 ANÁLISIS DE CIRCUITOS DE CA
 
@@ -117,7 +116,7 @@ Todas las leyes usadas para analizar circuitos de corriente directa son aplicabl
 
 Los voltajes de corriente directa y alterna dispuestos en serie, siempre se sumarán.
 
-“FIGURA 17”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/56ab019a815f5c5f3945597fcaeb64cd3767707c/IMA%20MAPA/FIGURA%2017.PNG)
 
 11–9 FORMAS DE ONDA NO SINUSOIDALES
 
@@ -131,7 +130,7 @@ Forma de onda compuesta Cualquier variación que se aparte de una onda seno pura
 
 Es un dispositivo de visualización que traza, en su pantalla, una gráfica de una señal eléctrica medida. Se pueden utilizar dos tipos básicos de osciloscopio, analógico y digital, para visualizar formas de onda digitales.
 
-“FIGURA 18”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/56ab019a815f5c5f3945597fcaeb64cd3767707c/IMA%20MAPA/FIGURA%2018.PNG)
 
 12.- CAPACITORES
 
@@ -139,11 +138,11 @@ Es un dispositivo de visualización que traza, en su pantalla, una gráfica de u
 
 Un capacitor es un componente eléctrico pasivo que guarda energía eléctrica y tiene la propiedad de capacitancia. Construcción básica: Se conforma por dos placas conductoras, y entre ellas se posiciona un dieléctrico, que es un material aislante.
 
-“FIGURA 19”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/56ab019a815f5c5f3945597fcaeb64cd3767707c/IMA%20MAPA/FIGURA%2019.PNG)
 
 Cómo guarda carga un capacitor: Mientras la fuente de voltaje proporciona energía al capacitor, los electrones libres de una placa conductora se dirigen hacia la otra placa conductora del capacitor, este proceso se da hasta cuando el capacitor retiene el mismo voltaje proporcionado por la fuente.
 
-“FIGURA 20”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/56ab019a815f5c5f3945597fcaeb64cd3767707c/IMA%20MAPA/FIGURA%2020.PNG)
 
 Capacitancia: Es una medida de la capacidad de un capacitor de guardar carga.
 
@@ -189,13 +188,13 @@ Medición de capacitancia: Se puede utilizar un medidor LCR o también existen m
 
 Capacitancia total:
 
-“FIGURA 21”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/56ab019a815f5c5f3945597fcaeb64cd3767707c/IMA%20MAPA/FIGURA%2021.PNG)
 
 La capacitancia total en serie siempre es menor que la capacitancia más pequeña.
 
 Voltajes en capacitores: Es posible calcular el voltaje de un capacitor con la fórmula:
 
-“Figura 22”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/56ab019a815f5c5f3945597fcaeb64cd3767707c/IMA%20MAPA/FIGURA%2022.PNG)
 
 “En una conexión en serie, el capacitor de valor más grande tendrá el voltaje más pequeñoentre sus terminales. El capacitor de valor más pequeño tendrá el voltaje más grande entre sus terminales”
 
@@ -214,12 +213,14 @@ La constante de tiempo RC: La constante de tiempo RC es un intervalo fijo que es
 Curvas de carga y descarga
 
 Un capacitor se carga y descarga siguiendo una curva no lineal.
-
-“FIGURA 23”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/56ab019a815f5c5f3945597fcaeb64cd3767707c/IMA%20MAPA/FIGURA%2023.PNG)
 
 Determinación del tiempo: Es necesario determinar cuánto le llevará a un capacitor cargarse o descargarse a un voltaje específico. 
 
-“FIGURA 24 Y 25”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/56ab019a815f5c5f3945597fcaeb64cd3767707c/IMA%20MAPA/FIGURA%2024.PNG)
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/56ab019a815f5c5f3945597fcaeb64cd3767707c/IMA%20MAPA/FIGURA%2025.PNG)
+
 
 12–6 CAPACITORES EN CIRCUITOS DE CA
 
@@ -228,13 +229,13 @@ La corriente instantánea en el capacitor es igual a la capacitancia multiplicad
 
 Relación de fase de corriente y voltaje en un capacitor: 
 
-“FIGURA 26” 
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/56ab019a815f5c5f3945597fcaeb64cd3767707c/IMA%20MAPA/FIGURA%2026.PNG)
 
 Reactancia capacitiva, XC: La reactancia capacitiva es la oposición a la corriente sinusoidal, expresada en ohms.
 
 Potencia en un capacitor:
 
-“FIGURA 27”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/56ab019a815f5c5f3945597fcaeb64cd3767707c/IMA%20MAPA/FIGURA%2027.PNG)
 
 Potencia instantánea (p) El producto de v por i da potencia instantánea
 
@@ -262,11 +263,9 @@ Memorias de computadora: Un capacitor representa un almacenamiento básico de in
 
 12–8 CIRCUITOS DE CAPACITOR CONMUTADOS
 
-Interruptores prácticos El interruptor de dos polos que se ha utilizado para ilustrar el concepto básico de un circuito de capacitor conmutado es una forma poco práctica de implementación en un amplificador programable u otro circuito analógico. “FIGURA 28”
+Interruptores prácticos El interruptor de dos polos que se ha utilizado para ilustrar el concepto básico de un circuito de capacitor conmutado es una forma poco práctica de implementación en un amplificador programable u otro circuito analógico.
 
-
-
-
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/56ab019a815f5c5f3945597fcaeb64cd3767707c/IMA%20MAPA/FIGURA%2028.PNG)
 
 # 3)Explicacion y resolucion de ejercicios.
 
