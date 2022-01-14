@@ -484,6 +484,78 @@ V2prom = 0v + (0.485)(65v)
 
 V2prom = 31.5V
 
+
+
+
+
+
+29. Una onda seno con valor rms de 10.6 V aparece montada sobre un nivel de cd de 24 V. ¿Cuáles son los valores máximo y mínimo de la forma de onda resultante?
+
+Vp=10,6/0,707=14,99v
+
+Vmax= Vcd+Vp= 24+14,99=38,99v
+Vmin=Vcd-Vp=24-14,99=9,01v
+
+31. Una onda pico de 6 V aparece montada en un voltaje de cd de 8 V. Si el voltaje de cd se reduce a 5 V, ¿qué tan negativa llegaría a ser la onda seno?
+Vmin=8-6=2v
+Si el voltaje cd es de 5v:
+Vmin=5-6= -1v
+Es negativa solo un voltio.
+
+
+33. Con la gráfica de la figura 11-84, determine los valores aproximados de tr, tf, tW, y la amplitud
+tf=5[s]
+tr=5[s]
+tW=8[s]
+Amplitud= 5v
+
+35. Calcule el valor promedio de la forma de onda pulsante mostrada en la figura 11-85.
+
+Vprom=línea base+ ciclo de trabajo(amplitud)
+
+Vprom=5v+(0.142)(5)=5,71v
+
+37. Determine el valor promedio de cada forma de onda pulsante mostrada en la figura 11-86
+a)
+Vprom=-1+(0.25)(2.5)=-0.375v
+b)
+Vprom=1+(0.66)(3)=2.98v
+
+39. ¿Cuál es la frecuencia de cada forma de onda diente de sierra mostrada en la figura 11-87?
+a)
+F=1/T=1/20=0,05
+b)
+F=1/T=1/100=0,01
+
+41. El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares.
+
+Voltaje	          Tiempo
+
+1v	                40ms
+
+0v	                50ms
+
+1v	                70ms
+
+0v                	90ms
+
+1v               	110ms
+
+0v               	130ms
+
+
+
+43. Determine el valor pico y el periodo para la onda seno mostrada en la pantalla del osciloscopio de la figura 11-89.
+
+Valor pico= 0,2V
+Periodo= 50 ms
+
+45. Examine la tarjeta prototipo y la pantalla del osciloscopio mostrado en la figura 11-91 y determine el valor pico y la frecuencia de la señal de entrada desconocida.
+
+Valor pico= 0,2v
+Frecuencia=1/50ms=20
+
+
 # 4)Video
 
 
