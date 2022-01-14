@@ -549,19 +549,20 @@ F=1/T=1/100=0,01
 
 41. El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares.
 
-Voltaje	          Tiempo
+Voltaje	          |  |           Tiempo
+---------------------------------------------
 
-1v	                40ms
+1v	               | |             40ms
 
-0v	                50ms
+0v	               | |             50ms
 
-1v	                70ms
+1v	               | |             70ms
 
-0v                	90ms
+0v                | |           	90ms
 
-1v               	110ms
+1v                | |            	110ms
 
-0v               	130ms
+0v                | |            	130ms
 
 
 
