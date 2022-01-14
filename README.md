@@ -580,7 +580,7 @@ Frecuencia=1/50ms=20
 
 19. Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68.
 
-“FIGURA 1”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%201.PNG)
 
 a)0.022 microfarads
 
@@ -592,21 +592,28 @@ d) 220 picofarads
 
 21. Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69.
 
-“FIGURA 2 Y 3”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%202.PNG)
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%203.PNG)
 
 23. Dos capacitores en serie (uno de 1 mF, el otro de valor desconocido) se cargan con una fuente de 12 V.
 
 El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?
 
-“FIGURA 4”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%204.PNG)
 
 25. Determine la CT para cada circuito de la figura 12-71.
 
-“FIGURA 5 Y 6”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%205.PNG)
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%206.PNG)
 
 27. Determine la CT para cada circuito de la figura 12-72.
 
-“FIGURA 7 Y 8”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%207.PNG)
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%208.PNG)
+
 
 29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados.
 
@@ -614,7 +621,10 @@ El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del cap
 
 (b) ¿Cuál es el voltaje entre las terminales de cada capacitor?
 
-“FIGURA 9 Y 10”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%209.PNG)
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2010.PNG)
+
 
 31. Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:
 
@@ -626,52 +636,70 @@ c) R=22 kohms, C=100 pF
 
 d) R=5.6 Mohms, C=10 pF
 
-“FIGURA 11”
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2011.PNG)
 
 33. En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores?
 (a) 1.5 ms (b) 4.5 ms (c) 6 ms (d) 7.5 ms
 
-“FIGURA 12 Y 13”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2012.PNG)
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2013.PNG)
 
 35. Repita el problema 33 con los siguientes tiempos:
 
 (a) 0.5 ms (b) 1 ms (c) 2 ms
 
-“FIGURA 14”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2014.PNG)
 
 37. ¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
 
-“FIGURA 15 Y 16”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2015.PNG)
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2016.PNG)
+
 
 39. Determine la constante de tiempo para el circuito de la figura 12-77.
 
-“FIGURA 17 Y 18”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2017.PNG)
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2018.PNG)
+
+
 
 41. (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
 
 (b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda?
 
-“FIGURA 19, 20 y 21”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2019.PNG)
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2020.PNG)
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2021.PNG)
 
 43. En la figura 12-72, cada fuente de voltaje de cd es reemplazada por una fuente de 10 V de 2 kHz. Determine la reactancia total en cada caso.
 
-“FIGURA 22 Y 23”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2022.PNG)
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2023.PNG)
 
 45. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor.
 
 ¿Cuál es la reactancia?
 
-“FIGURA 24”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2024.PNG)
 
 47. Determine la potencia verdadera y la potencia reactiva en el problema 46.
 
 Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 mF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?
 
-“FIGURA 25”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2025.PNG)
 
 49. Determine el valor de C1 en la figura 12-82.
 
-“FIGURA 26 Y 27”
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2026.PNG)
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2027.PNG)
 
 51. Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
 
@@ -680,21 +708,16 @@ proporcionando una corriente directa más pura
 
 53. En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula.
 
-“FIGURA 28”
-
-
-
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/61458082a02c0a8fdc07340ac86e511591ee8737/Imagenes%20tarea%206/FIGURA%2028.PNG)
 
 # 4)Video
 
-
-https://www.youtube.com/watch?v=TkJTO6C6f1w
+https://youtu.be/5rUi-d0kvCY
 
 # 5)Conclusiones
 
 
-- Logramos dentificar una forma de onda sinusoidal y medir sus características analizando cómo se generan las ondas seno. Tambien logramos estudiar caracteristicas basicas de los capacitores y aplicaciones del mismo.
-
+- Logramos dentificar una forma de onda sinusoidal y medir sus características analizando cómo se generan las ondas seno. Tambien logramos estudiar caracteristicas basicas de     los capacitores y aplicaciones del mismo.
 - Aprendimos a identificar los circuitos de CA y Voltajes superpuestos de CD y de CA para comprender dichos temas.
 - Entendimos como analizar los capacitores en serie y paralelo mediante la resolucion de ejercicios y asi tener en cuenta las caracteristicas del mismo.
 - Tambien logramos identificar los Capacitores en circuitos de CD y Capacitores en circuitos de CA mediante una ardua lectura del texto.
