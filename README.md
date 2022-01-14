@@ -271,7 +271,7 @@ Interruptores prácticos El interruptor de dos polos que se ha utilizado para il
 
 
 1. Calcule la frecuencia con cada uno de los siguientes valores de periodo:
-2. 
+
 a)1s
 
  =1 Hz
