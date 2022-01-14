@@ -478,6 +478,7 @@ V = 0V
 Vprom = línea de base + (ciclo de trabajo)(amplitud)
 
 V1prom = 0v + (1.35)(30v)
+
 V1prom = 40.5V
 
 V2prom = 0v + (0.485)(65v)
@@ -510,6 +511,8 @@ Es negativa solo un voltio.
 
 33. Con la gráfica de la figura 11-84, determine los valores aproximados de tr, tf, tW, y la amplitud
 
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/40530d81b07a464b05796d3b810fe93545297427/imagenesAXEL/axel_ejer33.png)
+
 tf=5[s]
 
 tr=5[s]
@@ -520,11 +523,15 @@ Amplitud= 5v
 
 35. Calcule el valor promedio de la forma de onda pulsante mostrada en la figura 11-85.
 
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/40530d81b07a464b05796d3b810fe93545297427/imagenesAXEL/axel_ejer35.png)
+
 Vprom=línea base+ ciclo de trabajo(amplitud)
 
 Vprom=5v+(0.142)(5)=5,71v
 
 37. Determine el valor promedio de cada forma de onda pulsante mostrada en la figura 11-86
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/40530d81b07a464b05796d3b810fe93545297427/imagenesAXEL/axel_ejer37.png)
 
 a)
 
@@ -535,6 +542,8 @@ b)
 Vprom=1+(0.66)(3)=2.98v
 
 39. ¿Cuál es la frecuencia de cada forma de onda diente de sierra mostrada en la figura 11-87?
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/40530d81b07a464b05796d3b810fe93545297427/imagenesAXEL/axel_ejer39.png)
 
 a)
 
@@ -549,30 +558,19 @@ F=1/T=1/100=0,01
 
 41. El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares.
 
-Voltaje	          |  |           Tiempo
-
-1v	               |- |             40ms
-
-0v	               |- |             50ms
-
-1v	               |- |             70ms
-
-0v                |- |            	90ms
-
-1v                |- |            	110ms
-
-0v                |- |            	130ms
-
-
-
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/40530d81b07a464b05796d3b810fe93545297427/imagenesAXEL/axel_ejer41.png)
 
 43. Determine el valor pico y el periodo para la onda seno mostrada en la pantalla del osciloscopio de la figura 11-89.
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/40530d81b07a464b05796d3b810fe93545297427/imagenesAXEL/axel_ejer43.png)
 
 Valor pico= 0,2V
 
 Periodo= 50 ms
 
 45. Examine la tarjeta prototipo y la pantalla del osciloscopio mostrado en la figura 11-91 y determine el valor pico y la frecuencia de la señal de entrada desconocida.
+
+![](https://github.com/spcueva1/Informe-Tarea-6/blob/40530d81b07a464b05796d3b810fe93545297427/imagenesAXEL/axel_ejer45.png)
 
 Valor pico= 0,2v
 
